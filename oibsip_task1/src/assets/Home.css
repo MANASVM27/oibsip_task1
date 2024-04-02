@@ -1,0 +1,68 @@
+/* Home.css */
+.App {
+    font-family: Arial, sans-serif;
+  }
+  
+  .Header {
+    background-image: url('https://res.cloudinary.com/dfrc94azr/image/upload/v1712060196/car-finance-concept-illustration_114360-8058_mfi5ct.avif');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    opacity: 0.8;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header-content {
+    font-size: larger;
+    margin-left: 20%;
+    color: rgb(5, 4, 4);
+  }
+  
+  .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  .btn:hover {background-color: #0f530b;}
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto;
+  }
+  
+  .feature {
+    width: 30%;
+    text-align: center;
+  }
+  
+  .feature i {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .Testimonials {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  .testimonial {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+
+
+  
